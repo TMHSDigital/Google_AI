@@ -1,2 +1,15 @@
 title: Google AI Ecosystem 2025
-remote_theme: pages-themes/cayman@v0.2.0 
+# Switch to Minimal Mistakes theme
+# See: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+theme: minimal-mistakes-jekyll
+
+# Enable plugins (if needed for mermaid)
+plugins:
+  - jekyll-include-cache
+
+# Optional: Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+
+# Add mermaid.js to site head
+head_scripts:
+  - _includes/mermaid.html 

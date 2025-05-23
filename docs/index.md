@@ -8,8 +8,6 @@ Welcome to a comprehensive visual guide to Google's AI offerings in 2025. This s
 
 ## Ecosystem Overview (Mermaid Diagram)
 
-> **Note:** If the diagram does not render, enable mermaid support in your GitHub Pages settings or view this file locally with a mermaid-enabled markdown viewer.
-
 ```mermaid
 flowchart TD
     A[Gemini: Multimodal AI]
