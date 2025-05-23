@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "Gemini: Multimodal AI"
+    url: /gemini.html
+  - title: "Imagen: Image Generation"
+    url: /imagen.html
+  - title: "Vertex AI & Enterprise Solutions"
+    url: /vertex-ai.html
+  - title: "AI Hardware & Infrastructure"
+    url: /hardware.html
+  - title: "Industry Applications"
+    url: /applications.html
+  - title: "Competition & Market Position"
+    url: /competition.html
+  - title: "Pricing Models"
+    url: /pricing.html
+  - title: "Future Roadmap"
+    url: /roadmap.html 

@@ -19,6 +19,6 @@
 
 ---
 
-[Back to Top](./index.md) | [Home](./index.md)
+[← Pricing](./pricing.md) | [Back to Top](./index.md) | [Home](./index.md)
 
 [Sources: Google, Google Cloud, TechCrunch, Google I/O 2025] 

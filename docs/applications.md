@@ -22,6 +22,6 @@
 
 ---
 
-[Back to Top](./index.md) | [Next: Competition →](./competition.md)
+[← Hardware](./hardware.md) | [Back to Top](./index.md) | [Next: Competition →](./competition.md)
 
 [Sources: Google, Google Cloud, The Verge, Google I/O 2025] 

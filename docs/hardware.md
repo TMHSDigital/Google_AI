@@ -21,4 +21,4 @@
 ---
 [Sources: Google, HPCWire, TechCrunch 2025]
 
-[Back to Top](./index.md) | [Next: Applications →](./applications.md) 
+[← Vertex AI](./vertex-ai.md) | [Back to Top](./index.md) | [Next: Applications →](./applications.md) 

@@ -41,4 +41,4 @@ Gemini is Google's flagship multimodal AI family, with Ultra, Pro, and Nano vari
 ---
 [Sources: Google, DeepMind, Google I/O 2025, arXiv:2312.11805]
 
-[Back to Top](./index.md) | [Next: Imagen →](./imagen.md) 
+[← Home](./index.md) | [Back to Top](./index.md) | [Next: Imagen →](./imagen.md) 

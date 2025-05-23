@@ -37,4 +37,4 @@
 ---
 [Sources: VentureBeat, Google Cloud, Google I/O 2025]
 
-[Back to Top](./index.md) | [Next: Pricing →](./pricing.md) 
+[← Applications](./applications.md) | [Back to Top](./index.md) | [Next: Pricing →](./pricing.md) 

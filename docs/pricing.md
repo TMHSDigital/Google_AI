@@ -18,4 +18,4 @@
 ---
 [Sources: Google Cloud, TechCrunch, Google I/O 2025]
 
-[Back to Top](./index.md) | [Next: Roadmap →](./roadmap.md) 
+[← Competition](./competition.md) | [Back to Top](./index.md) | [Next: Roadmap →](./roadmap.md) 

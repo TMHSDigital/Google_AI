@@ -24,6 +24,6 @@ Imagen 4 is Google's latest breakthrough in image generation, excelling in both 
 
 ---
 
-[Back to Top](./index.md) | [Next: Vertex AI →](./vertex-ai.md)
+[← Gemini](./gemini.md) | [Back to Top](./index.md) | [Next: Vertex AI →](./vertex-ai.md)
 
 [Sources: Google DeepMind, The Verge, TechCrunch, Google I/O 2025] 
