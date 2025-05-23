@@ -23,4 +23,7 @@ Imagen 4 is Google's latest breakthrough in image generation, excelling in both 
 - **2025:** Imagen 4 launches with 10x speed boost ("fast variant"), typography breakthrough
 
 ---
+
+[Back to Top](./index.md) | [Next: Vertex AI →](./vertex-ai.md)
+
 [Sources: Google DeepMind, The Verge, TechCrunch, Google I/O 2025] 

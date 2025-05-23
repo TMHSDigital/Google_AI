@@ -21,4 +21,7 @@
 - **Globalization:** 24-language support for voice and text
 
 ---
+
+[Back to Top](./index.md) | [Next: Competition →](./competition.md)
+
 [Sources: Google, Google Cloud, The Verge, Google I/O 2025] 

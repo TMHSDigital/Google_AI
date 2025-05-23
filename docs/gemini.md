@@ -10,6 +10,14 @@ Gemini is Google's flagship multimodal AI family, with Ultra, Pro, and Nano vari
 - **API:** Gemini 2.5 Pro is integrated into Google AI Studio, enabling instant app prototyping from text/image/video prompts
 - **Advanced Tools:** URL Context (extracts info from web links), Model Context Protocol (MCP) for open-source and enterprise integration
 
+## Gemini Variant Comparison
+
+| Variant      | Target Use         | Modalities                | Performance                | Integration                | Languages |
+|--------------|--------------------|---------------------------|----------------------------|----------------------------|-----------|
+| Ultra        | Enterprise, R&D    | Text, Image, Audio, Video | Human-expert, SOTA         | Full (AI Studio, SDK, API) | 24        |
+| Pro          | Mainstream, Devs   | Text, Image, Audio, Video | High, near-Ultra           | Full (AI Studio, SDK, API) | 24        |
+| Nano         | Edge, Mobile, IoT  | Text, Image               | Optimized for efficiency   | Select (on-device, SDK)    | 24        |
+
 ## Native Audio & Conversational AI
 - **Gemini 2.5 Flash:** Native audio processing via Live API
 - **Voice Control:** Full control over tone, speed, style in 24 languages
@@ -31,4 +39,6 @@ Gemini is Google's flagship multimodal AI family, with Ultra, Pro, and Nano vari
 - Interactive agents for enterprise and consumer
 
 ---
-[Sources: Google, DeepMind, Google I/O 2025, arXiv:2312.11805] 
+[Sources: Google, DeepMind, Google I/O 2025, arXiv:2312.11805]
+
+[Back to Top](./index.md) | [Next: Imagen →](./imagen.md) 

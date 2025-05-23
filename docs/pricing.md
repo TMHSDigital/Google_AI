@@ -16,4 +16,6 @@
 - **Enterprise Focus:** Pricing and support tailored for large-scale, regulated orgs
 
 ---
-[Sources: Google Cloud, TechCrunch, Google I/O 2025] 
+[Sources: Google Cloud, TechCrunch, Google I/O 2025]
+
+[Back to Top](./index.md) | [Next: Roadmap →](./roadmap.md) 

@@ -18,4 +18,7 @@
 - **Sustained Innovation:** Roadmap points to continued edge in performance, cost, and ecosystem
 
 ---
+
+[Back to Top](./index.md) | [Home](./index.md)
+
 [Sources: Google, Google Cloud, TechCrunch, Google I/O 2025] 

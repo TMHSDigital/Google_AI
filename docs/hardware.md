@@ -19,4 +19,6 @@
 - **Predictable Pricing:** Google controls stack, offers stable pricing/availability
 
 ---
-[Sources: Google, HPCWire, TechCrunch 2025] 
+[Sources: Google, HPCWire, TechCrunch 2025]
+
+[Back to Top](./index.md) | [Next: Applications →](./applications.md) 

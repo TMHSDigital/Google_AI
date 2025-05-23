@@ -30,4 +30,6 @@ Vertex AI is Google's unified platform for building, deploying, and managing gen
 - Creative: Content generation, marketing assets
 
 ---
-[Sources: Google Cloud, VentureBeat, Google I/O 2025] 
+[Sources: Google Cloud, VentureBeat, Google I/O 2025]
+
+[Back to Top](./index.md) | [Next: Hardware →](./hardware.md) 
