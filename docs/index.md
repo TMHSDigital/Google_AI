@@ -6,27 +6,6 @@ Welcome to a comprehensive visual guide to Google's AI offerings in 2025. This s
 
 ---
 
-## Ecosystem Overview (Mermaid Diagram)
-
-```mermaid
-flowchart TD
-    A[Gemini: Multimodal AI]
-    B[Imagen: Image Generation]
-    C[Vertex AI & Enterprise Solutions]
-    D[AI Hardware (TPUs, Hypercomputer)]
-    E[Industry Applications]
-
-    D --> A
-    D --> B
-    A --> C
-    B --> C
-    C --> E
-    A --> E
-    B --> E
-```
-
----
-
 ## Table of Contents
 
 - [Gemini: Multimodal AI](./gemini.md)

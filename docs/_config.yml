@@ -1,4 +1,6 @@
 title: Google AI Ecosystem 2025
+remote_theme: pages-themes/cayman@v0.2.0
+
 # Switch to Minimal Mistakes theme
 # See: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 theme: minimal-mistakes-jekyll
