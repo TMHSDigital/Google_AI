@@ -18,3 +18,6 @@ This repository contains a comprehensive, visually structured analysis of Google
   - Future Roadmap
 
 The site is built from the `/docs` directory. To view locally with full features, use a Jekyll server or view the published site at [GitHub Pages](https://tmhsdigital.github.io/Google_AI/).
+
+---
+_Last updated: 2025-05-23_
